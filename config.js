@@ -146,6 +146,8 @@ const CONFIG = {
 					name: 'Dart',
 					link: 'https://dart.dev/guides',
 				},
+				{},
+				{},
 			],
 		},
 		{
@@ -160,6 +162,8 @@ const CONFIG = {
 					name: 'fresh',
 					link: 'https://github.com/freyamade/fresh',
 				},
+				{},
+				{},
 			],
 		},
 	],
